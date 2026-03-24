@@ -1,0 +1,8 @@
+{
+  "name": "resume-optimizer",
+  "version": "1.0.0",
+  "description": "Systematic resume optimization for job applications. Tailors resumes to job postings through requirement mapping, ATS optimization, historical resume mining, and content enhancement.",
+  "author": {
+    "name": "Max Newey"
+  }
+}
