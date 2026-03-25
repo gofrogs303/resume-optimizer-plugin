@@ -1,0 +1,21 @@
+{
+  "name": "resume-optimizer-plugin",
+  "owner": {
+    "name": "Max Newey"
+  },
+  "metadata": {
+    "description": "Resume optimization plugin",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "resume-optimizer",
+      "description": "Systematic resume optimization for job applications. Tailors resumes to job postings through requirement mapping, ATS optimization, historical resume mining, and content enhancement.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/resume-optimizer"
+      ]
+    }
+  ]
+}
