@@ -1,0 +1,22 @@
+{
+  "name": "resume-optimizer-marketplace",
+  "owner": {
+    "name": "Max Newey",
+    "email": "maxnewey40@gmail.com"
+  },
+  "metadata": {
+    "description": "Resume optimization skills",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "resume-optimizer",
+      "description": "Systematic resume optimization for job applications with ATS optimization, requirement mapping, and DOCX/PDF generation",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/resume-optimizer"
+      ]
+    }
+  ]
+}
