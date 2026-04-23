@@ -46,7 +46,7 @@ Trigger the skill by asking Claude to optimize, tailor, or customize a resume:
 | `writing-guidelines.md` | Bullet writing style guide |
 | `docx-handling.md` | ATS rules and formatting guidance |
 | `industry-keywords.md` | Domain-specific keywords and frameworks |
-| `optmization-framework.md` | Optimization methodology |
+| `optimization-framework.md` | Optimization methodology |
 | `bullet-role-mapping-review.md` | Role-to-bullet mapping reference |
 
 ## Author
